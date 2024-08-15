@@ -9,6 +9,8 @@ poetry
 I have a live long interest in poetry...;  
 and, here my intention is to store related links/resources.  
 
+My favorite poet of all time is, William Shakespeare.  
+
 -----
 
 ##Links...
