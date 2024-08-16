@@ -33,10 +33,13 @@ AllPoetry
 William Shakespeare  
 
 Wikipedia article  
-- https://en.wikipedia.org/wiki/William_Shakespeare
+- https://en.wikipedia.org/wiki/William_Shakespeare  
 
-BBC Article: William Shakespeare: The life and legacy of England’s bard
+BBC Article: William Shakespeare: The life and legacy of England’s bard  
 - https://www.bbc.co.uk/teach/articles/zfw6d6f  
+
+RSC/Royal Shakespeare Company Article: Shakespeare's Life and Times  
+- https://www.rsc.org.uk/shakespeares-life-and-times     
 
 
 
