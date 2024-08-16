@@ -41,6 +41,9 @@ BBC Article: William Shakespeare: The life and legacy of England’s bard
 RSC/Royal Shakespeare Company Article: Shakespeare's Life and Times  
 - https://www.rsc.org.uk/shakespeares-life-and-times     
 
+William Shakespeare: The Complete Works By Linda Alchin  
+- https://www.william-shakespeare.info/    
+
 
 
 -----
