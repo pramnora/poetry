@@ -22,7 +22,7 @@ Academy of American Poets
 
 AllPoetry  
 - https://www.allpoetry.com  
-- https://www.allpoetry.com/pramnora  
+- https://allpoetry.com/pramnora  
 
 ----
 
