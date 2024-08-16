@@ -26,10 +26,16 @@ AllPoetry
 
 ----
 
+## Individual poets...
+
+-----
+
 William Shakespeare  
 
 Wikipedia article  
-- https://en.wikipedia.org/wiki/William_Shakespeare  
+- https://en.wikipedia.org/wiki/William_Shakespeare
+
+-----
 
 
   
