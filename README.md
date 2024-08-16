@@ -32,6 +32,8 @@ AllPoetry
 
 William Shakespeare  
 
+Biography...  
+
 Wikipedia article  
 - https://en.wikipedia.org/wiki/William_Shakespeare  
 
@@ -40,6 +42,11 @@ BBC Article: William Shakespeare: The life and legacy of England’s bard
 
 RSC/Royal Shakespeare Company Article: Shakespeare's Life and Times  
 - https://www.rsc.org.uk/shakespeares-life-and-times     
+
+Encyclopedia article: William Shakespeare   
+- https://www.britannica.com/biography/William-Shakespeare    
+
+Works...  
 
 William Shakespeare: The Complete Works By Linda Alchin  
 - https://www.william-shakespeare.info/    
